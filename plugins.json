@@ -1232,5 +1232,13 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+	    
+    },
+    {
+        "name": "SignCommands",
+        "desc": "Add commands to signs. Simple.",
+        "jarName": "Spigot-SignCommands.jar",
+        "configName": "SignCommands",
+        
+	    
 ]
